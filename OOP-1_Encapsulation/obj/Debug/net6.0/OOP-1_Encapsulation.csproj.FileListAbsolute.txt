@@ -1,0 +1,5 @@
+D:\Projeler\GitHub\YazılımEvi-OOP\OOP-1_Encapsulation\obj\Debug\net6.0\OOP-1_Encapsulation.csproj.AssemblyReference.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\OOP-1_Encapsulation\obj\Debug\net6.0\OOP-1_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\GitHub\YazılımEvi-OOP\OOP-1_Encapsulation\obj\Debug\net6.0\OOP-1_Encapsulation.AssemblyInfoInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\OOP-1_Encapsulation\obj\Debug\net6.0\OOP-1_Encapsulation.AssemblyInfo.cs
+D:\Projeler\GitHub\YazılımEvi-OOP\OOP-1_Encapsulation\obj\Debug\net6.0\OOP-1_Encapsulation.csproj.CoreCompileInputs.cache
